@@ -22,5 +22,5 @@ bidirectional road.
 * In the following K lines, one integer c i per line; the indexes of the K cities initially infected
 with the disease.
 
-Output Format:
-• In a single line; the number of connected states Byteotia needs to be separated into.
+# Output Format:
+* In a single line; the number of connected states Byteotia needs to be separated into.
